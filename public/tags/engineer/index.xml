@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENGINEER on SecondBrain</title>
+    <link>//localhost:1313/tags/engineer/</link>
+    <description>Recent content in ENGINEER on SecondBrain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/engineer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analog Digital Communication</title>
+      <link>//localhost:1313/blog/adc-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/adc-1/</guid>
+      <description>&lt;h2 id=&#34;modulation&#34;&gt;MODULATION&lt;/h2&gt;&#xA;&lt;p&gt;Modulation is the process in which certain parameters of a high-frequency carrier signal (such as amplitude, frequency, or phase) are varied in accordance with the instantaneous value of the modulating signal. This modulated signal is then transmitted by the transmitter. At the receiver end, the signal is demodulated to retrieve the original information. Thus, demodulation is the reverse process of modulation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
